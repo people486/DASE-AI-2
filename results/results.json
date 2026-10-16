@@ -1,0 +1,2468 @@
+{
+  "paths": {
+    "maze_False": {
+      "path": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "cost": 7
+    },
+    "maze_True": {
+      "path": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "cost": 7
+    },
+    "terrain_False": {
+      "path": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "cost": 7
+    },
+    "terrain_True": {
+      "path": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "cost": 7
+    },
+    "open30_False": {
+      "path": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          7,
+          0
+        ],
+        [
+          8,
+          0
+        ],
+        [
+          9,
+          0
+        ],
+        [
+          10,
+          0
+        ],
+        [
+          10,
+          1
+        ],
+        [
+          10,
+          2
+        ],
+        [
+          10,
+          3
+        ],
+        [
+          10,
+          4
+        ],
+        [
+          10,
+          5
+        ],
+        [
+          10,
+          6
+        ],
+        [
+          10,
+          7
+        ],
+        [
+          10,
+          8
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          10,
+          10
+        ]
+      ],
+      "cost": 20
+    },
+    "open30_True": {
+      "path": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          7,
+          0
+        ],
+        [
+          8,
+          0
+        ],
+        [
+          9,
+          0
+        ],
+        [
+          10,
+          0
+        ],
+        [
+          10,
+          1
+        ],
+        [
+          10,
+          2
+        ],
+        [
+          10,
+          3
+        ],
+        [
+          10,
+          4
+        ],
+        [
+          10,
+          5
+        ],
+        [
+          10,
+          6
+        ],
+        [
+          10,
+          7
+        ],
+        [
+          10,
+          8
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          10,
+          10
+        ]
+      ],
+      "cost": 20
+    },
+    "wall30_False": {
+      "path": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          7,
+          0
+        ],
+        [
+          8,
+          0
+        ],
+        [
+          9,
+          0
+        ],
+        [
+          10,
+          0
+        ],
+        [
+          11,
+          0
+        ],
+        [
+          12,
+          0
+        ],
+        [
+          13,
+          0
+        ],
+        [
+          14,
+          0
+        ],
+        [
+          15,
+          0
+        ],
+        [
+          16,
+          0
+        ],
+        [
+          17,
+          0
+        ],
+        [
+          18,
+          0
+        ],
+        [
+          19,
+          0
+        ],
+        [
+          20,
+          0
+        ],
+        [
+          21,
+          0
+        ],
+        [
+          22,
+          0
+        ],
+        [
+          23,
+          0
+        ],
+        [
+          24,
+          0
+        ],
+        [
+          25,
+          0
+        ],
+        [
+          26,
+          0
+        ],
+        [
+          27,
+          0
+        ],
+        [
+          28,
+          0
+        ],
+        [
+          29,
+          0
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          29,
+          2
+        ],
+        [
+          29,
+          3
+        ],
+        [
+          29,
+          4
+        ],
+        [
+          29,
+          5
+        ],
+        [
+          29,
+          6
+        ],
+        [
+          29,
+          7
+        ],
+        [
+          29,
+          8
+        ],
+        [
+          29,
+          9
+        ],
+        [
+          29,
+          10
+        ],
+        [
+          29,
+          11
+        ],
+        [
+          29,
+          12
+        ],
+        [
+          29,
+          13
+        ],
+        [
+          29,
+          14
+        ],
+        [
+          29,
+          15
+        ],
+        [
+          29,
+          16
+        ],
+        [
+          28,
+          16
+        ],
+        [
+          27,
+          16
+        ],
+        [
+          26,
+          16
+        ],
+        [
+          25,
+          16
+        ],
+        [
+          24,
+          16
+        ],
+        [
+          23,
+          16
+        ],
+        [
+          22,
+          16
+        ],
+        [
+          21,
+          16
+        ],
+        [
+          20,
+          16
+        ],
+        [
+          19,
+          16
+        ],
+        [
+          18,
+          16
+        ],
+        [
+          17,
+          16
+        ],
+        [
+          16,
+          16
+        ],
+        [
+          15,
+          16
+        ],
+        [
+          14,
+          16
+        ],
+        [
+          13,
+          16
+        ],
+        [
+          12,
+          16
+        ],
+        [
+          11,
+          16
+        ],
+        [
+          10,
+          16
+        ],
+        [
+          9,
+          16
+        ],
+        [
+          8,
+          16
+        ],
+        [
+          7,
+          16
+        ],
+        [
+          6,
+          16
+        ],
+        [
+          5,
+          16
+        ],
+        [
+          4,
+          16
+        ],
+        [
+          3,
+          16
+        ],
+        [
+          2,
+          16
+        ],
+        [
+          1,
+          16
+        ],
+        [
+          0,
+          16
+        ],
+        [
+          0,
+          17
+        ],
+        [
+          0,
+          18
+        ],
+        [
+          0,
+          19
+        ],
+        [
+          0,
+          20
+        ],
+        [
+          0,
+          21
+        ],
+        [
+          0,
+          22
+        ],
+        [
+          0,
+          23
+        ],
+        [
+          0,
+          24
+        ],
+        [
+          0,
+          25
+        ],
+        [
+          0,
+          26
+        ],
+        [
+          0,
+          27
+        ],
+        [
+          0,
+          28
+        ],
+        [
+          0,
+          29
+        ]
+      ],
+      "cost": 87
+    },
+    "wall30_True": {
+      "path": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          0,
+          7
+        ],
+        [
+          0,
+          8
+        ],
+        [
+          0,
+          9
+        ],
+        [
+          0,
+          10
+        ],
+        [
+          0,
+          11
+        ],
+        [
+          0,
+          12
+        ],
+        [
+          0,
+          13
+        ],
+        [
+          0,
+          14
+        ],
+        [
+          1,
+          14
+        ],
+        [
+          2,
+          14
+        ],
+        [
+          3,
+          14
+        ],
+        [
+          4,
+          14
+        ],
+        [
+          5,
+          14
+        ],
+        [
+          6,
+          14
+        ],
+        [
+          7,
+          14
+        ],
+        [
+          8,
+          14
+        ],
+        [
+          9,
+          14
+        ],
+        [
+          10,
+          14
+        ],
+        [
+          11,
+          14
+        ],
+        [
+          12,
+          14
+        ],
+        [
+          13,
+          14
+        ],
+        [
+          14,
+          14
+        ],
+        [
+          15,
+          14
+        ],
+        [
+          16,
+          14
+        ],
+        [
+          17,
+          14
+        ],
+        [
+          18,
+          14
+        ],
+        [
+          19,
+          14
+        ],
+        [
+          20,
+          14
+        ],
+        [
+          21,
+          14
+        ],
+        [
+          22,
+          14
+        ],
+        [
+          23,
+          14
+        ],
+        [
+          24,
+          14
+        ],
+        [
+          25,
+          14
+        ],
+        [
+          26,
+          14
+        ],
+        [
+          27,
+          14
+        ],
+        [
+          28,
+          14
+        ],
+        [
+          29,
+          14
+        ],
+        [
+          29,
+          15
+        ],
+        [
+          29,
+          16
+        ],
+        [
+          28,
+          16
+        ],
+        [
+          27,
+          16
+        ],
+        [
+          26,
+          16
+        ],
+        [
+          25,
+          16
+        ],
+        [
+          24,
+          16
+        ],
+        [
+          23,
+          16
+        ],
+        [
+          22,
+          16
+        ],
+        [
+          21,
+          16
+        ],
+        [
+          20,
+          16
+        ],
+        [
+          19,
+          16
+        ],
+        [
+          18,
+          16
+        ],
+        [
+          17,
+          16
+        ],
+        [
+          16,
+          16
+        ],
+        [
+          15,
+          16
+        ],
+        [
+          14,
+          16
+        ],
+        [
+          13,
+          16
+        ],
+        [
+          12,
+          16
+        ],
+        [
+          11,
+          16
+        ],
+        [
+          10,
+          16
+        ],
+        [
+          9,
+          16
+        ],
+        [
+          8,
+          16
+        ],
+        [
+          7,
+          16
+        ],
+        [
+          6,
+          16
+        ],
+        [
+          5,
+          16
+        ],
+        [
+          4,
+          16
+        ],
+        [
+          3,
+          16
+        ],
+        [
+          2,
+          16
+        ],
+        [
+          1,
+          16
+        ],
+        [
+          0,
+          16
+        ],
+        [
+          0,
+          17
+        ],
+        [
+          0,
+          18
+        ],
+        [
+          0,
+          19
+        ],
+        [
+          0,
+          20
+        ],
+        [
+          0,
+          21
+        ],
+        [
+          0,
+          22
+        ],
+        [
+          0,
+          23
+        ],
+        [
+          0,
+          24
+        ],
+        [
+          0,
+          25
+        ],
+        [
+          0,
+          26
+        ],
+        [
+          0,
+          27
+        ],
+        [
+          0,
+          28
+        ],
+        [
+          0,
+          29
+        ]
+      ],
+      "cost": 87
+    },
+    "unreachable_False": {
+      "path": [],
+      "cost": -1
+    },
+    "unreachable_True": {
+      "path": [],
+      "cost": -1
+    },
+    "zero_cost_False": {
+      "path": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "cost": 0
+    },
+    "zero_cost_True": {
+      "path": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "cost": 0
+    }
+  },
+  "distances": {
+    "A": {
+      "A": 0,
+      "B": 12,
+      "T1": 10,
+      "T2": 4,
+      "T3": 8,
+      "T4": 8
+    },
+    "B": {
+      "A": 12,
+      "B": 0,
+      "T1": 8,
+      "T2": 8,
+      "T3": 4,
+      "T4": 10
+    },
+    "T1": {
+      "A": 10,
+      "B": 8,
+      "T1": 0,
+      "T2": 6,
+      "T3": 6,
+      "T4": 12
+    },
+    "T2": {
+      "A": 4,
+      "B": 8,
+      "T1": 6,
+      "T2": 0,
+      "T3": 6,
+      "T4": 6
+    },
+    "T3": {
+      "A": 8,
+      "B": 4,
+      "T1": 6,
+      "T2": 6,
+      "T3": 0,
+      "T4": 6
+    },
+    "T4": {
+      "A": 8,
+      "B": 10,
+      "T1": 12,
+      "T2": 6,
+      "T3": 6,
+      "T4": 0
+    }
+  },
+  "metrics": [
+    {
+      "task": "maze",
+      "algorithm": "dijkstra",
+      "depth": "",
+      "order": "",
+      "value": 7,
+      "target": "",
+      "median_us": 44.6,
+      "nodes": 17,
+      "generated": 18,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "maze",
+      "algorithm": "astar",
+      "depth": "",
+      "order": "",
+      "value": 7,
+      "target": "",
+      "median_us": 42.7,
+      "nodes": 14,
+      "generated": 16,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "terrain",
+      "algorithm": "dijkstra",
+      "depth": "",
+      "order": "",
+      "value": 7,
+      "target": "",
+      "median_us": 50.5,
+      "nodes": 15,
+      "generated": 24,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "terrain",
+      "algorithm": "astar",
+      "depth": "",
+      "order": "",
+      "value": 7,
+      "target": "",
+      "median_us": 45.0,
+      "nodes": 11,
+      "generated": 19,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "open30",
+      "algorithm": "dijkstra",
+      "depth": "",
+      "order": "",
+      "value": 20,
+      "target": "",
+      "median_us": 1004.6,
+      "nodes": 221,
+      "generated": 242,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "open30",
+      "algorithm": "astar",
+      "depth": "",
+      "order": "",
+      "value": 20,
+      "target": "",
+      "median_us": 837.1,
+      "nodes": 121,
+      "generated": 141,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "wall30",
+      "algorithm": "dijkstra",
+      "depth": "",
+      "order": "",
+      "value": 87,
+      "target": "",
+      "median_us": 2009.3,
+      "nodes": 871,
+      "generated": 871,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "wall30",
+      "algorithm": "astar",
+      "depth": "",
+      "order": "",
+      "value": 87,
+      "target": "",
+      "median_us": 2138.0,
+      "nodes": 871,
+      "generated": 871,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "unreachable",
+      "algorithm": "dijkstra",
+      "depth": "",
+      "order": "",
+      "value": -1,
+      "target": "",
+      "median_us": 7.6,
+      "nodes": 1,
+      "generated": 1,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "unreachable",
+      "algorithm": "astar",
+      "depth": "",
+      "order": "",
+      "value": -1,
+      "target": "",
+      "median_us": 7.7,
+      "nodes": 1,
+      "generated": 1,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "zero_cost",
+      "algorithm": "dijkstra",
+      "depth": "",
+      "order": "",
+      "value": 0,
+      "target": "",
+      "median_us": 15.4,
+      "nodes": 4,
+      "generated": 6,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "zero_cost",
+      "algorithm": "astar",
+      "depth": "",
+      "order": "",
+      "value": 0,
+      "target": "",
+      "median_us": 16.4,
+      "nodes": 4,
+      "generated": 6,
+      "leaves": 0,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "tree",
+      "algorithm": "minimax",
+      "depth": "",
+      "order": "original",
+      "value": 5,
+      "target": "",
+      "median_us": 11.1,
+      "nodes": 15,
+      "generated": 0,
+      "leaves": 8,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "tree",
+      "algorithm": "alpha_beta",
+      "depth": "",
+      "order": "original",
+      "value": 5,
+      "target": "",
+      "median_us": 10.7,
+      "nodes": 14,
+      "generated": 0,
+      "leaves": 7,
+      "cutoffs": 1,
+      "cache_hits": 0
+    },
+    {
+      "task": "tree",
+      "algorithm": "minimax",
+      "depth": "",
+      "order": "reverse",
+      "value": 5,
+      "target": "",
+      "median_us": 11.4,
+      "nodes": 15,
+      "generated": 0,
+      "leaves": 8,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "tree",
+      "algorithm": "alpha_beta",
+      "depth": "",
+      "order": "reverse",
+      "value": 5,
+      "target": "",
+      "median_us": 11.3,
+      "nodes": 14,
+      "generated": 0,
+      "leaves": 7,
+      "cutoffs": 1,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "minimax",
+      "depth": 2,
+      "order": "original",
+      "value": -1,
+      "target": "T2",
+      "median_us": 41.4,
+      "nodes": 17,
+      "generated": 0,
+      "leaves": 12,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta",
+      "depth": 2,
+      "order": "original",
+      "value": -1,
+      "target": "T2",
+      "median_us": 33.3,
+      "nodes": 13,
+      "generated": 0,
+      "leaves": 8,
+      "cutoffs": 2,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta_cache",
+      "depth": 2,
+      "order": "original",
+      "value": -1,
+      "target": "T2",
+      "median_us": 33.2,
+      "nodes": 13,
+      "generated": 0,
+      "leaves": 8,
+      "cutoffs": 2,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "minimax",
+      "depth": 2,
+      "order": "reverse",
+      "value": -1,
+      "target": "T2",
+      "median_us": 39.2,
+      "nodes": 17,
+      "generated": 0,
+      "leaves": 12,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta",
+      "depth": 2,
+      "order": "reverse",
+      "value": -1,
+      "target": "T2",
+      "median_us": 37.8,
+      "nodes": 16,
+      "generated": 0,
+      "leaves": 11,
+      "cutoffs": 1,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta_cache",
+      "depth": 2,
+      "order": "reverse",
+      "value": -1,
+      "target": "T2",
+      "median_us": 39.4,
+      "nodes": 16,
+      "generated": 0,
+      "leaves": 11,
+      "cutoffs": 1,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "minimax",
+      "depth": 2,
+      "order": "gain",
+      "value": -1,
+      "target": "T2",
+      "median_us": 44.4,
+      "nodes": 17,
+      "generated": 0,
+      "leaves": 12,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta",
+      "depth": 2,
+      "order": "gain",
+      "value": -1,
+      "target": "T2",
+      "median_us": 31.0,
+      "nodes": 11,
+      "generated": 0,
+      "leaves": 6,
+      "cutoffs": 3,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta_cache",
+      "depth": 2,
+      "order": "gain",
+      "value": -1,
+      "target": "T2",
+      "median_us": 32.7,
+      "nodes": 11,
+      "generated": 0,
+      "leaves": 6,
+      "cutoffs": 3,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "minimax",
+      "depth": 2,
+      "order": "bad_gain",
+      "value": -1,
+      "target": "T2",
+      "median_us": 43.9,
+      "nodes": 17,
+      "generated": 0,
+      "leaves": 12,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta",
+      "depth": 2,
+      "order": "bad_gain",
+      "value": -1,
+      "target": "T2",
+      "median_us": 42.8,
+      "nodes": 16,
+      "generated": 0,
+      "leaves": 11,
+      "cutoffs": 1,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta_cache",
+      "depth": 2,
+      "order": "bad_gain",
+      "value": -1,
+      "target": "T2",
+      "median_us": 85.9,
+      "nodes": 16,
+      "generated": 0,
+      "leaves": 11,
+      "cutoffs": 1,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "minimax",
+      "depth": 4,
+      "order": "original",
+      "value": 3,
+      "target": "T3",
+      "median_us": 175.1,
+      "nodes": 65,
+      "generated": 0,
+      "leaves": 24,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta",
+      "depth": 4,
+      "order": "original",
+      "value": 3,
+      "target": "T3",
+      "median_us": 124.7,
+      "nodes": 47,
+      "generated": 0,
+      "leaves": 16,
+      "cutoffs": 5,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta_cache",
+      "depth": 4,
+      "order": "original",
+      "value": 3,
+      "target": "T3",
+      "median_us": 134.9,
+      "nodes": 47,
+      "generated": 0,
+      "leaves": 10,
+      "cutoffs": 5,
+      "cache_hits": 6
+    },
+    {
+      "task": "treasure",
+      "algorithm": "minimax",
+      "depth": 4,
+      "order": "reverse",
+      "value": 3,
+      "target": "T3",
+      "median_us": 167.8,
+      "nodes": 65,
+      "generated": 0,
+      "leaves": 24,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta",
+      "depth": 4,
+      "order": "reverse",
+      "value": 3,
+      "target": "T3",
+      "median_us": 118.8,
+      "nodes": 46,
+      "generated": 0,
+      "leaves": 16,
+      "cutoffs": 4,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta_cache",
+      "depth": 4,
+      "order": "reverse",
+      "value": 3,
+      "target": "T3",
+      "median_us": 126.0,
+      "nodes": 46,
+      "generated": 0,
+      "leaves": 10,
+      "cutoffs": 4,
+      "cache_hits": 6
+    },
+    {
+      "task": "treasure",
+      "algorithm": "minimax",
+      "depth": 4,
+      "order": "gain",
+      "value": 3,
+      "target": "T3",
+      "median_us": 185.1,
+      "nodes": 65,
+      "generated": 0,
+      "leaves": 24,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta",
+      "depth": 4,
+      "order": "gain",
+      "value": 3,
+      "target": "T3",
+      "median_us": 109.4,
+      "nodes": 37,
+      "generated": 0,
+      "leaves": 12,
+      "cutoffs": 6,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta_cache",
+      "depth": 4,
+      "order": "gain",
+      "value": 3,
+      "target": "T3",
+      "median_us": 118.8,
+      "nodes": 37,
+      "generated": 0,
+      "leaves": 8,
+      "cutoffs": 6,
+      "cache_hits": 4
+    },
+    {
+      "task": "treasure",
+      "algorithm": "minimax",
+      "depth": 4,
+      "order": "bad_gain",
+      "value": 3,
+      "target": "T3",
+      "median_us": 195.1,
+      "nodes": 65,
+      "generated": 0,
+      "leaves": 24,
+      "cutoffs": 0,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta",
+      "depth": 4,
+      "order": "bad_gain",
+      "value": 3,
+      "target": "T3",
+      "median_us": 164.5,
+      "nodes": 53,
+      "generated": 0,
+      "leaves": 19,
+      "cutoffs": 2,
+      "cache_hits": 0
+    },
+    {
+      "task": "treasure",
+      "algorithm": "alpha_beta_cache",
+      "depth": 4,
+      "order": "bad_gain",
+      "value": 3,
+      "target": "T3",
+      "median_us": 173.2,
+      "nodes": 53,
+      "generated": 0,
+      "leaves": 12,
+      "cutoffs": 2,
+      "cache_hits": 7
+    }
+  ],
+  "extra": {
+    "summary": [
+      {
+        "scene": "开放80",
+        "maps": 1,
+        "mean_cost": 158,
+        "Dijkstra": {
+          "mean_nodes": 6400,
+          "median_us": 21506.9
+        },
+        "A* FIFO": {
+          "mean_nodes": 6400,
+          "median_us": 18564.8
+        },
+        "A* 较大g": {
+          "mean_nodes": 159,
+          "median_us": 6453.9
+        }
+      },
+      {
+        "scene": "绕墙80",
+        "maps": 1,
+        "mean_cost": 237,
+        "Dijkstra": {
+          "mean_nodes": 6321,
+          "median_us": 18507.5
+        },
+        "A* FIFO": {
+          "mean_nodes": 6321,
+          "median_us": 19887.7
+        },
+        "A* 较大g": {
+          "mean_nodes": 3280,
+          "median_us": 13392.5
+        }
+      },
+      {
+        "scene": "随机40",
+        "maps": 10,
+        "mean_cost": 78,
+        "Dijkstra": {
+          "mean_nodes": 964.4,
+          "median_us": 3908.8
+        },
+        "A* FIFO": {
+          "mean_nodes": 137.2,
+          "median_us": 1918.8
+        },
+        "A* 较大g": {
+          "mean_nodes": 131.9,
+          "median_us": 1791.1
+        }
+      },
+      {
+        "scene": "随机80",
+        "maps": 10,
+        "mean_cost": 158,
+        "Dijkstra": {
+          "mean_nodes": 4045.5,
+          "median_us": 11811.7
+        },
+        "A* FIFO": {
+          "mean_nodes": 261.8,
+          "median_us": 4757.2
+        },
+        "A* 较大g": {
+          "mean_nodes": 260.1,
+          "median_us": 4809.8
+        }
+      }
+    ],
+    "records": [
+      {
+        "scene": "开放80",
+        "seed": 0,
+        "method": "Dijkstra",
+        "cost": 158,
+        "nodes": 6400,
+        "median_us": 21506.9
+      },
+      {
+        "scene": "开放80",
+        "seed": 0,
+        "method": "A* FIFO",
+        "cost": 158,
+        "nodes": 6400,
+        "median_us": 18564.8
+      },
+      {
+        "scene": "开放80",
+        "seed": 0,
+        "method": "A* 较大g",
+        "cost": 158,
+        "nodes": 159,
+        "median_us": 6453.9
+      },
+      {
+        "scene": "绕墙80",
+        "seed": 0,
+        "method": "Dijkstra",
+        "cost": 237,
+        "nodes": 6321,
+        "median_us": 18507.5
+      },
+      {
+        "scene": "绕墙80",
+        "seed": 0,
+        "method": "A* FIFO",
+        "cost": 237,
+        "nodes": 6321,
+        "median_us": 19887.7
+      },
+      {
+        "scene": "绕墙80",
+        "seed": 0,
+        "method": "A* 较大g",
+        "cost": 237,
+        "nodes": 3280,
+        "median_us": 13392.5
+      },
+      {
+        "scene": "随机40",
+        "seed": 0,
+        "method": "Dijkstra",
+        "cost": 78,
+        "nodes": 1163,
+        "median_us": 3916.8
+      },
+      {
+        "scene": "随机40",
+        "seed": 0,
+        "method": "A* FIFO",
+        "cost": 78,
+        "nodes": 125,
+        "median_us": 1495.3
+      },
+      {
+        "scene": "随机40",
+        "seed": 0,
+        "method": "A* 较大g",
+        "cost": 78,
+        "nodes": 112,
+        "median_us": 1485.3
+      },
+      {
+        "scene": "随机40",
+        "seed": 1,
+        "method": "Dijkstra",
+        "cost": 78,
+        "nodes": 1014,
+        "median_us": 3030.9
+      },
+      {
+        "scene": "随机40",
+        "seed": 1,
+        "method": "A* FIFO",
+        "cost": 78,
+        "nodes": 130,
+        "median_us": 1520.8
+      },
+      {
+        "scene": "随机40",
+        "seed": 1,
+        "method": "A* 较大g",
+        "cost": 78,
+        "nodes": 130,
+        "median_us": 1396.0
+      },
+      {
+        "scene": "随机40",
+        "seed": 2,
+        "method": "Dijkstra",
+        "cost": 78,
+        "nodes": 868,
+        "median_us": 3032.7
+      },
+      {
+        "scene": "随机40",
+        "seed": 2,
+        "method": "A* FIFO",
+        "cost": 78,
+        "nodes": 137,
+        "median_us": 1688.4
+      },
+      {
+        "scene": "随机40",
+        "seed": 2,
+        "method": "A* 较大g",
+        "cost": 78,
+        "nodes": 133,
+        "median_us": 1972.1
+      },
+      {
+        "scene": "随机40",
+        "seed": 3,
+        "method": "Dijkstra",
+        "cost": 78,
+        "nodes": 820,
+        "median_us": 4059.7
+      },
+      {
+        "scene": "随机40",
+        "seed": 3,
+        "method": "A* FIFO",
+        "cost": 78,
+        "nodes": 122,
+        "median_us": 1882.4
+      },
+      {
+        "scene": "随机40",
+        "seed": 3,
+        "method": "A* 较大g",
+        "cost": 78,
+        "nodes": 115,
+        "median_us": 1808.7
+      },
+      {
+        "scene": "随机40",
+        "seed": 4,
+        "method": "Dijkstra",
+        "cost": 78,
+        "nodes": 856,
+        "median_us": 3512.7
+      },
+      {
+        "scene": "随机40",
+        "seed": 4,
+        "method": "A* FIFO",
+        "cost": 78,
+        "nodes": 173,
+        "median_us": 1999.9
+      },
+      {
+        "scene": "随机40",
+        "seed": 4,
+        "method": "A* 较大g",
+        "cost": 78,
+        "nodes": 173,
+        "median_us": 2088.3
+      },
+      {
+        "scene": "随机40",
+        "seed": 5,
+        "method": "Dijkstra",
+        "cost": 78,
+        "nodes": 994,
+        "median_us": 4443.8
+      },
+      {
+        "scene": "随机40",
+        "seed": 5,
+        "method": "A* FIFO",
+        "cost": 78,
+        "nodes": 144,
+        "median_us": 2389.3
+      },
+      {
+        "scene": "随机40",
+        "seed": 5,
+        "method": "A* 较大g",
+        "cost": 78,
+        "nodes": 144,
+        "median_us": 2528.6
+      },
+      {
+        "scene": "随机40",
+        "seed": 6,
+        "method": "Dijkstra",
+        "cost": 78,
+        "nodes": 956,
+        "median_us": 4236.2
+      },
+      {
+        "scene": "随机40",
+        "seed": 6,
+        "method": "A* FIFO",
+        "cost": 78,
+        "nodes": 162,
+        "median_us": 2089.7
+      },
+      {
+        "scene": "随机40",
+        "seed": 6,
+        "method": "A* 较大g",
+        "cost": 78,
+        "nodes": 156,
+        "median_us": 1861.8
+      },
+      {
+        "scene": "随机40",
+        "seed": 7,
+        "method": "Dijkstra",
+        "cost": 78,
+        "nodes": 948,
+        "median_us": 3596.5
+      },
+      {
+        "scene": "随机40",
+        "seed": 7,
+        "method": "A* FIFO",
+        "cost": 78,
+        "nodes": 123,
+        "median_us": 2271.6
+      },
+      {
+        "scene": "随机40",
+        "seed": 7,
+        "method": "A* 较大g",
+        "cost": 78,
+        "nodes": 116,
+        "median_us": 1681.5
+      },
+      {
+        "scene": "随机40",
+        "seed": 8,
+        "method": "Dijkstra",
+        "cost": 78,
+        "nodes": 980,
+        "median_us": 3900.8
+      },
+      {
+        "scene": "随机40",
+        "seed": 8,
+        "method": "A* FIFO",
+        "cost": 78,
+        "nodes": 118,
+        "median_us": 1744.5
+      },
+      {
+        "scene": "随机40",
+        "seed": 8,
+        "method": "A* 较大g",
+        "cost": 78,
+        "nodes": 102,
+        "median_us": 1635.0
+      },
+      {
+        "scene": "随机40",
+        "seed": 9,
+        "method": "Dijkstra",
+        "cost": 78,
+        "nodes": 1045,
+        "median_us": 4531.4
+      },
+      {
+        "scene": "随机40",
+        "seed": 9,
+        "method": "A* FIFO",
+        "cost": 78,
+        "nodes": 138,
+        "median_us": 1955.1
+      },
+      {
+        "scene": "随机40",
+        "seed": 9,
+        "method": "A* 较大g",
+        "cost": 78,
+        "nodes": 138,
+        "median_us": 1773.4
+      },
+      {
+        "scene": "随机80",
+        "seed": 0,
+        "method": "Dijkstra",
+        "cost": 158,
+        "nodes": 4535,
+        "median_us": 17237.6
+      },
+      {
+        "scene": "随机80",
+        "seed": 0,
+        "method": "A* FIFO",
+        "cost": 158,
+        "nodes": 287,
+        "median_us": 6896.5
+      },
+      {
+        "scene": "随机80",
+        "seed": 0,
+        "method": "A* 较大g",
+        "cost": 158,
+        "nodes": 287,
+        "median_us": 5874.9
+      },
+      {
+        "scene": "随机80",
+        "seed": 1,
+        "method": "Dijkstra",
+        "cost": 158,
+        "nodes": 3916,
+        "median_us": 12007.2
+      },
+      {
+        "scene": "随机80",
+        "seed": 1,
+        "method": "A* FIFO",
+        "cost": 158,
+        "nodes": 240,
+        "median_us": 5172.5
+      },
+      {
+        "scene": "随机80",
+        "seed": 1,
+        "method": "A* 较大g",
+        "cost": 158,
+        "nodes": 240,
+        "median_us": 4873.0
+      },
+      {
+        "scene": "随机80",
+        "seed": 2,
+        "method": "Dijkstra",
+        "cost": 158,
+        "nodes": 3808,
+        "median_us": 12607.7
+      },
+      {
+        "scene": "随机80",
+        "seed": 2,
+        "method": "A* FIFO",
+        "cost": 158,
+        "nodes": 249,
+        "median_us": 5586.6
+      },
+      {
+        "scene": "随机80",
+        "seed": 2,
+        "method": "A* 较大g",
+        "cost": 158,
+        "nodes": 245,
+        "median_us": 4984.0
+      },
+      {
+        "scene": "随机80",
+        "seed": 3,
+        "method": "Dijkstra",
+        "cost": 158,
+        "nodes": 4072,
+        "median_us": 12986.4
+      },
+      {
+        "scene": "随机80",
+        "seed": 3,
+        "method": "A* FIFO",
+        "cost": 158,
+        "nodes": 243,
+        "median_us": 4749.1
+      },
+      {
+        "scene": "随机80",
+        "seed": 3,
+        "method": "A* 较大g",
+        "cost": 158,
+        "nodes": 243,
+        "median_us": 5738.0
+      },
+      {
+        "scene": "随机80",
+        "seed": 4,
+        "method": "Dijkstra",
+        "cost": 158,
+        "nodes": 3877,
+        "median_us": 12945.0
+      },
+      {
+        "scene": "随机80",
+        "seed": 4,
+        "method": "A* FIFO",
+        "cost": 158,
+        "nodes": 246,
+        "median_us": 4270.5
+      },
+      {
+        "scene": "随机80",
+        "seed": 4,
+        "method": "A* 较大g",
+        "cost": 158,
+        "nodes": 240,
+        "median_us": 4076.1
+      },
+      {
+        "scene": "随机80",
+        "seed": 5,
+        "method": "Dijkstra",
+        "cost": 158,
+        "nodes": 4209,
+        "median_us": 10627.4
+      },
+      {
+        "scene": "随机80",
+        "seed": 5,
+        "method": "A* FIFO",
+        "cost": 158,
+        "nodes": 286,
+        "median_us": 3940.0
+      },
+      {
+        "scene": "随机80",
+        "seed": 5,
+        "method": "A* 较大g",
+        "cost": 158,
+        "nodes": 285,
+        "median_us": 3837.4
+      },
+      {
+        "scene": "随机80",
+        "seed": 6,
+        "method": "Dijkstra",
+        "cost": 158,
+        "nodes": 4194,
+        "median_us": 10866.3
+      },
+      {
+        "scene": "随机80",
+        "seed": 6,
+        "method": "A* FIFO",
+        "cost": 158,
+        "nodes": 295,
+        "median_us": 4858.8
+      },
+      {
+        "scene": "随机80",
+        "seed": 6,
+        "method": "A* 较大g",
+        "cost": 158,
+        "nodes": 295,
+        "median_us": 4759.6
+      },
+      {
+        "scene": "随机80",
+        "seed": 7,
+        "method": "Dijkstra",
+        "cost": 158,
+        "nodes": 4019,
+        "median_us": 11616.1
+      },
+      {
+        "scene": "随机80",
+        "seed": 7,
+        "method": "A* FIFO",
+        "cost": 158,
+        "nodes": 250,
+        "median_us": 4255.4
+      },
+      {
+        "scene": "随机80",
+        "seed": 7,
+        "method": "A* 较大g",
+        "cost": 158,
+        "nodes": 250,
+        "median_us": 4448.5
+      },
+      {
+        "scene": "随机80",
+        "seed": 8,
+        "method": "Dijkstra",
+        "cost": 158,
+        "nodes": 3982,
+        "median_us": 10727.5
+      },
+      {
+        "scene": "随机80",
+        "seed": 8,
+        "method": "A* FIFO",
+        "cost": 158,
+        "nodes": 241,
+        "median_us": 4765.3
+      },
+      {
+        "scene": "随机80",
+        "seed": 8,
+        "method": "A* 较大g",
+        "cost": 158,
+        "nodes": 241,
+        "median_us": 4860.0
+      },
+      {
+        "scene": "随机80",
+        "seed": 9,
+        "method": "Dijkstra",
+        "cost": 158,
+        "nodes": 3843,
+        "median_us": 10707.8
+      },
+      {
+        "scene": "随机80",
+        "seed": 9,
+        "method": "A* FIFO",
+        "cost": 158,
+        "nodes": 281,
+        "median_us": 3841.8
+      },
+      {
+        "scene": "随机80",
+        "seed": 9,
+        "method": "A* 较大g",
+        "cost": 158,
+        "nodes": 275,
+        "median_us": 4002.2
+      }
+    ],
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "repetitions": 31,
+    "note": "Same maps for all methods; random maps have 22% obstacles, weights 1/3/8; top row and right column set to 1 for reachability; mean nodes and median of per-map median microseconds; includes grid setup"
+  },
+  "samples": {
+    "maze": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "terrain": 7,
+    "tree": {
+      "minimax": 5,
+      "alpha_beta": 5
+    },
+    "distances": {
+      "A": {
+        "A": 0,
+        "B": 12,
+        "T1": 10,
+        "T2": 4,
+        "T3": 8,
+        "T4": 8
+      },
+      "B": {
+        "A": 12,
+        "B": 0,
+        "T1": 8,
+        "T2": 8,
+        "T3": 4,
+        "T4": 10
+      },
+      "T1": {
+        "A": 10,
+        "B": 8,
+        "T1": 0,
+        "T2": 6,
+        "T3": 6,
+        "T4": 12
+      },
+      "T2": {
+        "A": 4,
+        "B": 8,
+        "T1": 6,
+        "T2": 0,
+        "T3": 6,
+        "T4": 6
+      },
+      "T3": {
+        "A": 8,
+        "B": 4,
+        "T1": 6,
+        "T2": 6,
+        "T3": 0,
+        "T4": 6
+      },
+      "T4": {
+        "A": 8,
+        "B": 10,
+        "T1": 12,
+        "T2": 6,
+        "T3": 6,
+        "T4": 0
+      }
+    },
+    "treasure": {
+      "2": {
+        "minimax": {
+          "best_target": "T2",
+          "best_value": -1
+        },
+        "alpha_beta": {
+          "best_target": "T2",
+          "best_value": -1
+        }
+      },
+      "4": {
+        "minimax": {
+          "best_target": "T3",
+          "best_value": 3
+        },
+        "alpha_beta": {
+          "best_target": "T3",
+          "best_value": 3
+        }
+      }
+    }
+  },
+  "matrix_timing": {
+    "median_us": {
+      "repeat": 2278.6,
+      "reuse": 964.1
+    },
+    "repetitions": 31,
+    "searches": 36,
+    "includes_preprocessing": true
+  },
+  "environment": {
+    "python": "3.9.12",
+    "system": "Windows"
+  },
+  "source_sha256": {
+    "algorithms.py": "7157fd69f81056498af313cacb85c829188173d2f634b8bc83577e28410c1e02",
+    "main.py": "c6d816298d499e32f74f4b5f8778e9ca3179cb15c7bffa9bfacf8ae113647670",
+    "extra_experiments.py": "c22eb48d8b81198056a866ea82f08f6f5da85845ed185b519e652f687df5b23f",
+    "test_algorithms.py": "6c5f51ccb5054b777dce488a533f452b9498d234f213ca397d10126df5eb4e62"
+  },
+  "validation": {
+    "tests_run": 8,
+    "passed": true,
+    "checked_at": "2026-10-16T05:33:51.915370+00:00"
+  },
+  "timing": "101 repetitions after one warmup; median microseconds; includes setup"
+}
